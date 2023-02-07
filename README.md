@@ -1,0 +1,2 @@
+# stringmod
+Testing GO module
